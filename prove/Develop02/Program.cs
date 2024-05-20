@@ -56,5 +56,7 @@ class Program
             Console.ReadKey();
 
         } while (_options != 5);
+        Console.WriteLine("Thanks, see you morrow");
     }
+
 }
